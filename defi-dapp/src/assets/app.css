@@ -1,0 +1,22 @@
+tr.tr-hover-class:hover {
+    opacity: 0.6;
+}
+
+tr.normal {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+div.disclaimer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer.footerInformation {
+    background-color: #fafafa;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

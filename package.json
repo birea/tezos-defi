@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "workspaces": ["defi-contracts", "defi-dapp"]
+}
